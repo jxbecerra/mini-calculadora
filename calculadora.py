@@ -1,7 +1,6 @@
 
 def suma(a, b):
-    # TODO: implementar
-    pass
+    return a + b 
 
 def resta(a, b):
     # TODO: implementar
